@@ -1,4 +1,4 @@
-# Optimisation-and-Data-Analytics
+# Optimisation-and-Data-Analytics - Project Description
 
 The project develops a method for the graphical solution of linear optimization problems with two decision variables. The objective function and constraints are visualized to identify the feasible region and subsequently determine the optimal solution point graphically. The implementation includes an algorithmic solution using PuLP, as well as error handling for infeasible and unbounded problems and the detection of multiple optimal solutions. Finally, the approach is tested with real-world data to demonstrate its practical applicability.
 

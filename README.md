@@ -4,7 +4,7 @@ The project develops a method for the graphical solution of linear optimization 
 
 # 1 Graphical Solution of LP Problems
 
-[Link to the projekt: Graphical Solution of LP Problems](https://colab.research.google.com/drive/19mym5CZswYTupHm8kfpOlEc280_XfGs9#scrollTo=jpQoR1FAK1H1)
+[Link to the project: Graphical Solution of LP Problems](https://colab.research.google.com/drive/19mym5CZswYTupHm8kfpOlEc280_XfGs9#scrollTo=jpQoR1FAK1H1)
 
 # 2 Language & Libraries
 
